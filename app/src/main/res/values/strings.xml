@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="empty_field">Champ vide</string>
+    <string name="pseudo_invalid">Pseudo_invalid</string>
+    <string name="invalid_password">Mot de passe incorrect</string>
+    <string name="sign_in">Connexion</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="password">Mot de passe</string>
+</resources>
